@@ -1,2 +1,0 @@
-# hond
-honeypot
